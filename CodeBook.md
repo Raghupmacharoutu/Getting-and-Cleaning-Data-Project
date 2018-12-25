@@ -1,8 +1,8 @@
-# Code Book
+# Code Book file
 
 This code book summarizes the resulting data fields in `tidy.txt`.
 
-## Identifiers
+## Identifiers are as below.
 
 * `subject` - The ID of the test subject
 * `activity` - The type of activity performed when the corresponding measurements were taken
