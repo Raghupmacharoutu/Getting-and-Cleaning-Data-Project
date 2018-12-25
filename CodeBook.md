@@ -1,13 +1,13 @@
-# Code Book file
+# Code Book file for tidy.txt output
 
-This code book summarizes the resulting data fields in `tidy.txt`.
+This code book summarizes the resulting data fields in `tidy.txt` created from the run_analysis.R code.
 
 ## Identifiers are as below.
 
-* `subject` - The ID of the test subject
-* `activity` - The type of activity performed when the corresponding measurements were taken
+* `subject` - ID of the test subject
+* `activity` - Type of activity performed when the corresponding measurements were taken
 
-## Measurements
+## Measurements - we have expanded in terms  of x-axis y-axis and z-axis.
 
 * `tBodyAccMeanX`
 * `tBodyAccMeanY`
@@ -89,7 +89,7 @@ This code book summarizes the resulting data fields in `tidy.txt`.
 * `fBodyBodyGyroJerkMagStd`
 * `fBodyBodyGyroJerkMagMeanFreq`
 
-## Activity Labels
+## Activity Labels we found from the Data they provided.
 
 * `WALKING` (value `1`): subject was walking during the test
 * `WALKING_UPSTAIRS` (value `2`): subject was walking up a staircase during the test
